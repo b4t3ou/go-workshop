@@ -19,6 +19,8 @@
 - Rich standard library
 - Error handling
 - Pointers
+- Go offline (go tool tour)
+- Multiple results
 
 ### Why not Go
 - No built in vendor support
@@ -29,3 +31,4 @@
 - Maps sometimes pain in the ass
 - Error handling
 - Pointers
+- DateTime handling
