@@ -5,7 +5,7 @@
 - Easy to learn
 - Compiled (the compiler has written in go)
 - Compiles very quickly
-- Cross platform
+- Cross platform (GOOS=linux GOARCH=amd64 go build -o importer)
 - Language level support for concurrency (not paralellism)
 - Goroutines and channels
 - Built in HTTP server and crawler
