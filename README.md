@@ -3,7 +3,7 @@
 ### Why Go
 - Strong static type safety
 - Easy to learn
-- Compiled (the compiler has written in go)
+- Compiled (the compiler has been written in go)
 - Compiles very quickly
 - Cross platform (GOOS=linux GOARCH=amd64 go build -o importer)
 - Language level support for concurrency (not paralellism)
