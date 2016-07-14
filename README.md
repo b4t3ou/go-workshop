@@ -21,6 +21,8 @@
 - Pointers
 - Go offline (go tool tour)
 - Multiple results
+- Not JavaScript
+- Not Java
 
 ### Why not Go
 - No built in vendor support
